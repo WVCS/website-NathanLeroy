@@ -1,3 +1,19 @@
 body {
-background-color: purple;
+  background-color: indigo;
+  text-color: black;
+}
+
+h1{
+  color: white;
+  font-size: 200%;
+}
+
+p1{
+  color:white;
+  font-size: 100%;
+}
+
+img {
+  display: block;
+  max-width: 100%;
 }
