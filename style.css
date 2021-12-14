@@ -17,3 +17,18 @@ img {
   display: block;
   max-width: 100%;
 }
+
+ul{
+  list-style-type: none;
+  background-color: indigo;
+}
+
+li a{
+  display: block;
+  color: white;
+  font-size: 80%;
+  float: left;
+  overflow: hidden;
+  text-align: left;
+  padding: 15px;
+}
